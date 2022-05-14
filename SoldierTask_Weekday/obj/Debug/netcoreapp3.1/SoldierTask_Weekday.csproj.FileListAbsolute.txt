@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\bin\Debug\netcoreapp3.1\SoldierTask_Weekday.exe
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\bin\Debug\netcoreapp3.1\SoldierTask_Weekday.deps.json
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\bin\Debug\netcoreapp3.1\SoldierTask_Weekday.runtimeconfig.json
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\bin\Debug\netcoreapp3.1\SoldierTask_Weekday.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\bin\Debug\netcoreapp3.1\SoldierTask_Weekday.dll
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\bin\Debug\netcoreapp3.1\SoldierTask_Weekday.pdb
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\obj\Debug\netcoreapp3.1\SoldierTask_Weekday.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\obj\Debug\netcoreapp3.1\SoldierTask_Weekday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\obj\Debug\netcoreapp3.1\SoldierTask_Weekday.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\obj\Debug\netcoreapp3.1\SoldierTask_Weekday.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\obj\Debug\netcoreapp3.1\SoldierTask_Weekday.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\obj\Debug\netcoreapp3.1\SoldierTask_Weekday.dll
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\obj\Debug\netcoreapp3.1\SoldierTask_Weekday.pdb
+C:\Users\Admin\source\repos\SoldierTask_Weekday\SoldierTask_Weekday\obj\Debug\netcoreapp3.1\SoldierTask_Weekday.genruntimeconfig.cache
